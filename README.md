@@ -5,8 +5,8 @@ Gil tasks app spring
 Instructions:
 1. Clone the repository
 2. run maven clean, package
-3. run "docker build -t *image name* .
-4. run "docker run -p 8888:8888 *image name*
+3. run "docker build -t 'image name' .
+4. run "docker run -p 8888:8888 'image name'
 
 
 * 			 The home page (index) contains a thymeleaf UI page to improve the visibility and process easier to understand
